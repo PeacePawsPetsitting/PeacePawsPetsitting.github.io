@@ -1,3 +1,3 @@
 # PeacePawsPetsitting.github.io
 
-[PeacePawsPetsitting.github.io](https://PeacePawsPetsitting.github.io)
+Forwards to [PeacePawsPetsitting.weebly.com](https://PeacePawsPetsitting.weebly.com)
